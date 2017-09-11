@@ -1,14 +1,14 @@
 {
-  "name": "Riot",
+  "name": "QuasselWeb",
   "version": "1.0.0",
-  "description": "Riot - A Matrix client",
+  "description": "QuasselWeb - Chat comfortably, anywhere.",
   "main": "index.js",
-  "author": "SteamGorilla",
+  "author": "Kurocon",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://riot.im/app/#/login",
+    "serviceURL": "https://chat.kuro.network/",
     "serviceName": "riot",
-    "message": "Riot is a place to connect with teams.",
+    "message": "KuroNET QuasselWeb.",
     "popup": [],
     "hasNotificationSound": true,
     "hasIndirectMessages": false,
@@ -21,3 +21,4 @@
     "openDevTools": false
   }
 }
+

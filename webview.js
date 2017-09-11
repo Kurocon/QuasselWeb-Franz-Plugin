@@ -2,10 +2,8 @@ const path = require('path');
 
 module.exports = (Franz, options) => {
   function getMessages() {
-		var badge = document.getElementById('urc_note');
-		var count = 0;
-		if(badge.style.display == 'block')
-			count = badge.innerHTML;
+		var badge = document.getElementsByClassName('buffer-highlight-high');
+		var count = badge.length;
 		Franz.setBadge(count);
 	};
   Franz.loop(getMessages);

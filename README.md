@@ -1,5 +1,5 @@
-# Riot-Franz-Plugin
-A plugin for use your Riot Matrix account on Franz
+# QuasselWeb-Franz-Plugin
+A plugin for use your QuasselWeb instance on Franz
 
 # Installation
 1. Open the Franz Plugins folder:
@@ -9,7 +9,8 @@ A plugin for use your Riot Matrix account on Franz
   
   * _Or: Go to the Franz settings page, scroll the bottom and click on "Open the Franz plugin directory"_
 2. Copy the `Riot-Franz-Plugin` folder into the plugins directory
-3. Restart Franz
+3. Change the URL in package.json to your own QuasselWeb instance.
+4. Restart Franz
 
 # What is Franz
 Franz is a free messaging app combines chat & messaging services into one application. Franz currently supports Slack, WhatsApp, WeChat, HipChat, Facebook Messenger, Telegram, Google Hangouts, GroupMe, Skype and many more. You can download Franz for Mac, Windows & Linux.
