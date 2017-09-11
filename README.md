@@ -1,5 +1,5 @@
 # QuasselWeb-Franz-Plugin
-A plugin for use your QuasselWeb instance on Franz
+A plugin to use your QuasselWeb instance on Franz
 
 # Installation
 1. Open the Franz Plugins folder:
@@ -18,4 +18,4 @@ Franz is a free messaging app combines chat & messaging services into one applic
 * [Website](http://meetfranz.com)
 
 # Informations
-I'm not affiliated with Franz, I just developed the Riot plugin because it did not exist.
+I'm not affiliated with Franz, I just developed the Quassel plugin because it did not exist.
